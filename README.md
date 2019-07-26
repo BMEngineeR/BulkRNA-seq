@@ -4,7 +4,7 @@
 
   - fastq ---> bam ---> gene (in row) \* sample (in column) matrix ---> R script (DE, pathway)
 
-## 2.  Prequirement:
+## 2.  Pre-requirement:
 ### software:
   - aligner: [hisat2](https://ccb.jhu.edu/software/hisat2/index.shtml) `wget http://ccb.jhu.edu/software/hisat2/dl/hisat2-2.1.0-Linux_x86_64.zip`
   - gene-counter: please follow the install instruction [HTseq](https://htseq.readthedocs.io/en/release_0.11.1/install.html#installation-on-linux)
