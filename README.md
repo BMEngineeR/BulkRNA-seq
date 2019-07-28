@@ -3,6 +3,8 @@
 ## 1. __workflow__
 
   - fastq ---> bam ---> gene (in row) \* sample (in column) matrix ---> R script (DE, pathway)
+## 2. notice:
+  - if you only have two samples per treatment(or control), please use edgeR to avoid outlier gene effect. 
 
 ## 2.  Pre-requirement:
 ### software:
